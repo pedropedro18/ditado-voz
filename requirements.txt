@@ -1,6 +1,3 @@
+treamlit
 gTTS
 googe-geni
-MODELO = "novo-nome-do-modelo"
-GEMINI_API_KEY = "pedro18"
-CODIGOS_ACESSO = ["LEITOR-A7K2", "LEITOR-M9X4", "pedro18"]
-MODELO = "gemini-3.5-flash-lite"
